@@ -3,6 +3,7 @@ A URL Shortener created using Cloudflare Worker
 
 # API
 
+  
 [API Documentation (API文档)](docs/API.md)
 
 # Getting start
@@ -35,7 +36,7 @@ Click Save and Deploy
 # Demo
 https://lnks.eu.org/
 
-Note: Because someone abuse this demo website, all the generated link will automatically expired after 24 hours. For long-term use, please deploy your own.
+Note: Because someone abuse this demo website, all the generated link will automatically expired after 24 小时之前. For long-term use, please deploy your own.
 
 注意：所有由Demo网站生成的链接24小时后会自动失效，如需长期使用请自行搭建。
 
